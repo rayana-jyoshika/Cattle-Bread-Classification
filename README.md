@@ -124,3 +124,6 @@ If you want to train these models yourself utilizing Free T4 GPUs, we designed a
 **Cows (21)**: Alambadi, Amritmahal, Bargur, Dangi, Deoni, Gir, Hallikar, Kangayam, Kankrej, Kasaragod, Kenkatha, Kherigarh, Malnad Gidda, Nagori, Nimari, Pulikulam, Rathi, Sahiwal, Tharparkar, Umblachery
 
 **Buffaloes (5)**: Banni, Jaffrabadi, Mehsana, Nagpuri, Nili Ravi, Shurti
+
+
+added from my gowthamm
